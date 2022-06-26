@@ -38,7 +38,9 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Фронт</b></summary>
 
-  ### Посмотреть реализацию проекта можно по [ссылке]()
+  ![image](https://user-images.githubusercontent.com/79146846/175832923-29a3f0bf-aab3-4ae8-bb68-997f880a699a.png)
+
+  ### Посмотреть реализацию проекта можно по [ссылке](https://tutor-project-account.herokuapp.com/)
   
 </details>
 

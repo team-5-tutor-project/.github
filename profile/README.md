@@ -38,6 +38,7 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Фронт</b></summary>
   
+  
 ![FireShot Capture 403 - Index - tutor-project-account herokuapp com](https://user-images.githubusercontent.com/79146846/175832997-c3c0b693-7061-440a-a4e9-4525b6e7705f.png)
   
  ![image](https://user-images.githubusercontent.com/79146846/175833051-2751622b-1022-4672-bacc-9131a06a85fb.png)
@@ -46,9 +47,11 @@
 ![image](https://user-images.githubusercontent.com/79146846/175833085-cf0c3e7c-b36e-4c42-8dc9-0b2cbdb1c750.png)
 ![image](https://user-images.githubusercontent.com/79146846/175833149-96fb47c9-7a3c-4cdf-82a4-c2cbfcbe7c6c.png)
 
-
-
   ### Посмотреть реализацию проекта можно по [ссылке](https://tutor-project-account.herokuapp.com/)
+  
+### Автор нашего дизайна: <a href="https://t.me/caseyleen">
+   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
+</a>
   
 </details>
 

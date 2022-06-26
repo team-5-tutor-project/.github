@@ -2,7 +2,7 @@
   <p>Tutor project</p>
   </h1>
   
-<img src="https://img.freepik.com/free-vector/webinar-concept-illustration_114360-4764.jpg?t=st=1654793626~exp=1654794226~hmac=bcb2b37fed25dc611a22c1f176283a088ef93db86b00ca5068f629053331674e&w=1060">
+![image](https://user-images.githubusercontent.com/79146846/175837613-bca1d0d3-870d-461e-a496-73e1fcaded02.png)
 
 <h1 align="center">
   <p>Cервис для тех, кто ищет себе репетитора, и тех, кто хочет попробовать себя в этой роли. </p>
@@ -29,9 +29,19 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Стек</b></summary>
 
-  <h3>Backend</h3>
+  <h2>Backend</h2>
+  
+  ### Модуль [Аккаунт](https://github.com/team-5-tutor-project/team-5-account) использует Microsoft.AspNetCore.Mvc для создания http-сервера и подключения к общей базе данных
+### Модуль [Поисковик](https://github.com/team-5-tutor-project/team-5-searcher) использует Microsoft.AspNetCore.Mvc для создания http-сервера и подключения к общей базе данных
+  ### Модуль [Мессенджер](https://github.com/team-5-tutor-project/team-5-messenger) выполнен на основе Java SpringBoot для создания отдельного сервера
 
-  <h3>Frontend</h3>
+  <h2>Frontend</h2>
+  
+  ### Модуль [Аккаунт](https://github.com/team-5-tutor-project/team-5-account) выполнен на основе ASP.NET Core Blazor WebAssembly, html/css дизайн выполнен в Adobe Illustrator
+
+### Модуль [Поисковик](https://github.com/team-5-tutor-project/team-5-searcher) использует ASP.NET Core Blazor WebAssembly, html/css дизайн создан внутри .blazor файлов
+  
+  ### Модуль [Мессенджер](https://github.com/team-5-tutor-project/team-5-messenger-frontend) использует ASP.NET Core Blazor WebAssembly, html/css дизайн создан внутри .blazor файлов
   
 </details>
 

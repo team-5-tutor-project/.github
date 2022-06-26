@@ -37,8 +37,16 @@
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Фронт</b></summary>
+  
+![FireShot Capture 403 - Index - tutor-project-account herokuapp com](https://user-images.githubusercontent.com/79146846/175832997-c3c0b693-7061-440a-a4e9-4525b6e7705f.png)
+  
+ ![image](https://user-images.githubusercontent.com/79146846/175833051-2751622b-1022-4672-bacc-9131a06a85fb.png)
+![image](https://user-images.githubusercontent.com/79146846/175833065-e6b8937f-1f74-440a-b11a-23225096ca6d.png)
+  ![image](https://user-images.githubusercontent.com/79146846/175833074-aae0f1f7-8011-4824-ae6e-48c3987137b1.png)
+![image](https://user-images.githubusercontent.com/79146846/175833085-cf0c3e7c-b36e-4c42-8dc9-0b2cbdb1c750.png)
+![image](https://user-images.githubusercontent.com/79146846/175833149-96fb47c9-7a3c-4cdf-82a4-c2cbfcbe7c6c.png)
 
-  ![image](https://user-images.githubusercontent.com/79146846/175832923-29a3f0bf-aab3-4ae8-bb68-997f880a699a.png)
+
 
   ### Посмотреть реализацию проекта можно по [ссылке](https://tutor-project-account.herokuapp.com/)
   

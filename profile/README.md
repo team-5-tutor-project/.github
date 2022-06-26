@@ -72,6 +72,8 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Инструкция&nbsp;по&nbsp;запуску</b></summary>
   
+  Писать в личку https://t.me/kawwik
+  
 </details>
 
 <details>

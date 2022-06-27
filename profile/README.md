@@ -73,6 +73,11 @@
   <summary><b>✨&nbsp;&nbsp;Инструкция&nbsp;по&nbsp;запуску</b></summary>
   
   Писать в личку https://t.me/kawwik
+
+![image](https://user-images.githubusercontent.com/79146846/175839032-c4b8b460-4ab8-4a2b-a629-17a932792177.png)
+  
+  (обычно он отвечает что-то такое)
+
   
 </details>
 

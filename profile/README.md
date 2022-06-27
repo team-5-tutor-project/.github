@@ -50,6 +50,7 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Фронт</b></summary>
   
+  # Фронт модуля [Аккаунт](https://github.com/team-5-tutor-project/team-5-account):
   
 ![FireShot Capture 403 - Index - tutor-project-account herokuapp com](https://user-images.githubusercontent.com/79146846/175832997-c3c0b693-7061-440a-a4e9-4525b6e7705f.png)
   
@@ -65,6 +66,30 @@
    <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 </a>
   
+  # Фронт модуля [Поисковик](https://github.com/team-5-tutor-project/team-5-searcher):
+
+  ### Страница поиска
+![image](https://user-images.githubusercontent.com/79813229/175834647-e8e76ca4-9eb7-486f-806b-c99b3f5e5e80.png)
+![image](https://user-images.githubusercontent.com/79813229/175834661-4d227a65-860e-4eb9-b5cb-ef27cd6dc86a.png)
+
+### Выбор параметров на странице поиска
+![image](https://user-images.githubusercontent.com/79813229/175834672-e791c63f-3bff-4b34-964c-639867d489bc.png)
+
+### Страница избранное
+![image](https://user-images.githubusercontent.com/79813229/175834782-2e441dc2-e1d0-424d-8b85-26710e957f86.png)
+
+### Страница черный список
+![image](https://user-images.githubusercontent.com/79813229/175834798-10ef63cc-f44c-486c-8435-ad2bae301ca3.png)
+
+### Страница с подробной информацией о репетиторе 
+![image](https://user-images.githubusercontent.com/79813229/175834719-e181171b-b56e-4d48-a869-c47ef17d48af.png)
+![image](https://user-images.githubusercontent.com/79813229/175834741-d5ec98ec-816e-440a-ba2c-76ea89dfac3e.png)
+
+### Страница редактирования расписания репетитора
+![image](https://user-images.githubusercontent.com/79813229/175837082-1c16d07e-7475-4014-a72a-5bd5bad0f6de.png)
+
+# Фронт модуля [Мессенджер](https://github.com/team-5-tutor-project/team-5-messenger):
+
 </details>
 
 

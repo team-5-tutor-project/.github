@@ -112,11 +112,20 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Инструкция&nbsp;по&nbsp;запуску</b></summary>
   
-  Писать в личку https://t.me/kawwik
+Выполнить команды
+docker run -d -p 4000:4000 kawwik/tutor-project-account-back
+docker run -d -p 5000:80 kawwik/tutor-project-account-front
+docker run -d -p 6001:6001 kawwik/tutor-project-searcher-back
+docker run -d -p 7000:80 kawwik/tutor-project-searcher-front
+docker run -d -p 8000:8000 kawwik/tutor-project-messenger-back
+
+Склонировать репозиторий [ссылка на фронт мессенджера](https://github.com/team-5-tutor-project/team-5-messenger) и запустить его в IDE
+  
+Писать в личку https://t.me/kawwik
 
 ![image](https://user-images.githubusercontent.com/79146846/175839032-c4b8b460-4ab8-4a2b-a629-17a932792177.png)
   
-  (обычно он отвечает что-то такое)
+
 
   
 </details>
